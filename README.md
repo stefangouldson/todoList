@@ -1,3 +1,6 @@
+Second React project. This is a simple To Do list which can be added to and removed.
+Below is the generic read me from using Create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
