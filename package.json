@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stefangouldson.github.io/repository-todoList",
+  "homepage": "https://stefangouldson.github.io/todoList/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
